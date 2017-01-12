@@ -1,0 +1,15 @@
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\bin\Debug\ImageRotator.exe.config
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.csprojResolveAssemblyReference.cache
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\MainWindow.g.cs
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\App.g.cs
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator_MarkupCompile.cache
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator_MarkupCompile.lref
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\bin\Debug\ImageRotator.exe
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\bin\Debug\ImageRotator.pdb
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\MainWindow.baml
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.g.resources
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.Properties.Resources.resources
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.csproj.GenerateResource.Cache
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.exe
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\obj\Debug\ImageRotator.pdb
+c:\users\dvj\documents\visual studio 2015\Projects\ImageRotator\ImageRotator\bin\Debug\Gat.Controls.OpenDialog.dll
